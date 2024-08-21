@@ -83,9 +83,9 @@
     </mailingLists>
 
     <properties>
-        <pfl.version>4.1.2</pfl.version>
-        <gmbal.commons.version>3.2.3</gmbal.commons.version>
         <jdkVersion>11</jdkVersion>
+        <pfl.version>5.0.1-SNAPSHOT</pfl.version>
+        <gmbal.commons.version>3.3.0-SNAPSHOT</gmbal.commons.version>
         <legal.doc.source>${project.basedir}/..</legal.doc.source>
     </properties>
 
